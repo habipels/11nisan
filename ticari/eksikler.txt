@@ -1,0 +1,7 @@
+
+sepet ekle çıkar 
+site içi arama 
+
+1 html 
+2 django models form
+

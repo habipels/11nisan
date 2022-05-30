@@ -1,0 +1,9 @@
+{% extends "homebase.html" %}
+{% block sefa %}
+<form action="." method="post">
+    {% csrf_token %}
+    {{form}}
+    <br>
+    <button type="submit" > Üye Ol</button>
+</form>
+{% endblock sefa %}
